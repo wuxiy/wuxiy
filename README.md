@@ -93,9 +93,9 @@
 <!-- 贪吃蛇贡献图（由 GitHub Actions 每日生成，见 .github/workflows/snake.yml） -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wuxiy/wuxiy/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wuxiy/wuxiy/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/wuxiy/wuxiy/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wuxiy/wuxiy/output/github-snake-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wuxiy/wuxiy/output/github-snake.svg?v=1" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/wuxiy/wuxiy/output/github-snake.svg?v=1" />
   </picture>
 </p>
 
