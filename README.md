@@ -68,8 +68,8 @@
 ### 📊 GitHub 数据
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wuxiy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuxiy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wuxiy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wuxiy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 </p>
 
 <p align="center">
@@ -78,14 +78,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wuxiy&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
-
----
-
-### 🏆 成就
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wuxiy&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
 </p>
 
 ---
