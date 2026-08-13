@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: lowlighter/metrics@v3
+      - uses: lowlighter/metrics@latest
         with:
           # 建议配置名为 METRICS_TOKEN 的 classic PAT（scope: public_repo, read:user）
           # 未配置时退回 GITHUB_TOKEN，仅公开数据可用
