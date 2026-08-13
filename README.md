@@ -67,17 +67,9 @@
 
 ### 📊 GitHub 数据
 
+<!-- 由 GitHub Actions 每日生成，见 .github/workflows/metrics.yml -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wuxiy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wuxiy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wuxiy&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wuxiy&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://raw.githubusercontent.com/wuxiy/wuxiy/output/github-metrics.svg?v=1" alt="metrics" />
 </p>
 
 ---

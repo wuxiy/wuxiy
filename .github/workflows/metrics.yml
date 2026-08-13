@@ -1,0 +1,31 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    # 每天 UTC 16:30（北京时间 0:30）生成一次
+    - cron: "30 16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: lowlighter/metrics@v3
+        with:
+          # 建议配置名为 METRICS_TOKEN 的 classic PAT（scope: public_repo, read:user）
+          # 未配置时退回 GITHUB_TOKEN，仅公开数据可用
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: wuxiy
+          filename: github-metrics.svg
+          committer_branch: output
+          base: header, activity, repositories
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytesize, percentage
+          plugin_languages_limit: 8
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
