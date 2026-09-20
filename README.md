@@ -24,9 +24,9 @@
 
 坐标**成都**的后端工程师，2016 年入坑 GitHub。
 
-白天**「尽职编程」**——在医卫/政务内网里和 Java · Spring Cloud Alibaba 微服务打交道（Dubbo、Sa-Token、MyBatis-Plus、MQ、ES）；
+白天「尽职编程」，晚上「压榨 AI」——把异想天开交给 AI 结对实现，它任劳任怨，我坐享其成。🤝
 
-晚上**「压榨 AI」**——把异想天开交给 AI 结对实现，它任劳任怨，我坐享其成。🤝
+白天在医卫/政务内网里和 Java · Spring Cloud Alibaba 微服务打交道（Dubbo、Sa-Token、MyBatis-Plus、MQ、ES）。
 
 ---
 
